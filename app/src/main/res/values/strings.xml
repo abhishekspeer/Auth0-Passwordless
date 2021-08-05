@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Auth0-Passwordless</string>
+    <string name="auth0_client_id">rotYO6RMfRsIaL6cF2UMFDzF4fFeY03P</string>
+    <string name="auth0_domain">dev-25x9oi7h.us.auth0.com</string>
+    <string name="auth0_scheme">https</string>
+</resources>
